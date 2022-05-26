@@ -1,4 +1,4 @@
-# PassHashManager [v1.0.0]
+# PassHashManager [v1.0.1]
 
 Very simple Python script (*app.py*) for hashing, storing and checking login/account creating information. It can be used for creating accounts and for logging into those accounts. The hashing system includes SHA256, an 32 bytes long salt and 100,000 iterations. (This can be changed.)
 
